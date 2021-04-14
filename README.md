@@ -62,6 +62,17 @@ Desarrollo de una aplicación movil con la siguiente Arquitectura
 
 </details>
 
+<details>
+   <summary>Imagenes de los Rest Api (Postman)
+   <br>
+   <td>
+      <img align="left" src="https://github.com/GuilleCripto/DemoSpringKotlin/blob/main/postman1.png" width="200">
+   </td>
+
+ 
+   </summary>
+</details>
+
 
 
 
