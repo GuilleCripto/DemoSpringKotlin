@@ -6,6 +6,7 @@ Desarrollar una solución dividida en dos capas Backend y Front End  basada en t
 </details>
 
 <details>
+
 <summary>Instalacion Backend</summary>
          Proyecto montado con Spring Boot y Java 8, con los siguientes frameworks / libraries / funcionalidades:
 
