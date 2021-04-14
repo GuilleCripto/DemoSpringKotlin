@@ -31,7 +31,6 @@ Requisitos:
 
  - mongoDB server (instalado y arrancado, en localhost y con el puerto por defecto)
 
-
 Comandos
 
  - Arrancar directamente con el plugin de SpringBoot:
