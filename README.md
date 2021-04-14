@@ -22,6 +22,8 @@ Desarrollar una solución dividida en dos capas Backend y Front End  basada en t
  - Spring Exception Handling en los controllers
  
  - Validaciones en los entities, y envío de errores
+ 
+ 
 
 
 
@@ -44,7 +46,7 @@ Comandos
 <summary>Instalacion Movil</summary>
 # jgyanez - Android Architecture Sample
 
-<img align="right" src="https://github.com/GuilleCripto/DemoSpringKotlin/blob/main/movil.png" width="200">
+<img align="right" src="https://github.com/GuilleCripto/DemoSpringKotlin/blob/main/movil1.png" width="200">
 
 Desarrollo de una aplicación movil con la siguiente Arquitectura 
  * ViewModel
