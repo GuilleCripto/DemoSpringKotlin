@@ -2,7 +2,7 @@
 <details>
 <summary>Introducción</summary>
 <br>
-Desarrollar una solución dividida en dos capas Backend y Front End  basada en técnologia java utilizando como framework spring boot y orientada a una arquitectura de microservicios. Asi como una Aplicación Movil en kotlin
+Desarrollar una solución dividida en dos capas Backend y Front End  basada en técnologia java utilizando como framework spring boot y orientada a una arquitectura de microservicios. Asi como una Aplicación Movil en kotlin, con una base de datos no sql MongoDb
 </details>
 
 <details>
