@@ -7,7 +7,7 @@ Desarrollar una solución dividida en dos capas Backend y Front End  basada en t
 
 <details>
 
-<summary>Instalacion Backend</summary>
+<summary>Instalacion Backend (Tomcat, weblogic)</summary>
          Proyecto montado con Spring Boot y Java 8, con los siguientes frameworks / libraries / funcionalidades:
 
  - Spring Boot: versión 2. posibilidad de arrancar directamente con el plugin de maven o generar un war para despliegue en 
@@ -39,8 +39,27 @@ Comandos
     mvn spring-boot:run
     ```
 
+</details>
 <details>
 <summary>Instalacion Movil</summary>
+# jgyanez - Android Architecture Sample
+
+<img align="right" src="https://github.com/sberoch/RickAndMorty-AndroidArchitectureSample/raw/master/assets/characters.jpg" width="200">
+
+Desarrollo de una aplicación movil con la siguiente Arquitectura 
+ * ViewModel
+ * LiveData
+ * Dagger (for dependency injection)
+ * Kotlin Coroutines
+ * Retrofit
+ * Room (Pendiente, para replicación de Datos)
+ * Navigation
+ 
+ ## Funcionalidades
+ * Aplicación offline
+ * Utilizacíon de kotlin Coroutines Para la sincronización y rendimiento del dispositivo movil
+ *
+
 </details>
 
 
