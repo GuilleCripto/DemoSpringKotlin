@@ -46,7 +46,7 @@ Comandos
 <summary>Instalacion Movil</summary>
 # jgyanez - Android Architecture Sample
 
-<img align="right" src="https://github.com/GuilleCripto/DemoSpringKotlin/blob/main/movil1.png" width="200">
+<img align="right" src="https://github.com/GuilleCripto/DemoSpringKotlin/blob/master/movil1.png" width="200">
 
 Desarrollo de una aplicación movil con la siguiente Arquitectura 
  * ViewModel
